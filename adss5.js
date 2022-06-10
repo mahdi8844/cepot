@@ -1,8 +1,8 @@
 var dataUrl = [
   
   
-  'https://angularconstitution.com/g1mt10eak?key=6601e332ac1abfbc3d0cb6070b4b917a',
-  'https://www.effectivegatetocontent.com/mjica607za?key=2e7bf748dd3e7d803a90bbd32fd95f54'
+  'https://www.profitablecpmgate.com/g1mt10eak?key=6601e332ac1abfbc3d0cb6070b4b917a',
+  'https://annoynoveltyeel.com/bk6xziud?key=24a93215ae3fd40b02e4035bb344aa7b'
   
  
 ];
