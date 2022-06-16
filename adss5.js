@@ -1,7 +1,7 @@
 var dataUrl = [
   
   
-  'https://www.profitablecpmgate.com/s08bg6xt?key=282003c5c880a35c2edd8003e1d9c33b',
+  'https://www.profitablecpmgate.com/w60j252h?key=7d2a8ef66871f5d2dc6faa1821ff582e',
   'https://annoynoveltyeel.com/bk6xziud?key=24a93215ae3fd40b02e4035bb344aa7b'
   
  
