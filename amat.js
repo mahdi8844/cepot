@@ -1,7 +1,7 @@
 var dataUrl = [
   
-'https://grantedpigsunborn.com/mmj2k7nrdt?key=a9adec45b7e8413e8085337ca17f76bf',
-'https://coastlineahead.com/vmzwb7hn?key=b10e1f51e331e71e0021221d53a1f2de'
+'https://www.profitablecpmgate.com/dnj3chpn?key=40b634377d7d3733568f5dc8a9d01695',
+'https://www.profitablecpmgate.com/kt48cu4q?key=ccc9c339ae2b4ff0886f4b788cdea7d3'
   
   
 
