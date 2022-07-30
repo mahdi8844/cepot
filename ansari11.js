@@ -12,7 +12,7 @@ var dataUrl = [
   'https://grantedpigsunborn.com/eun6bc7z?key=7eb35efd04314c17bed2c3b7411852d9',
   'https://amendablepredicamentvertical.com/ftevmc9ffu?key=88b2c5bdae56a3d0c808da01c98c12d7',
   'https://amendablepredicamentvertical.com/p9m1gmpd?key=a3e88c6c6c485f3d3b80e2e54d76497a',
-  'https://amendablepredicamentvertical.com/zew272d3wv?key=08a55baa42028feb47832b052f7f041d;,
+  'https://amendablepredicamentvertical.com/zew272d3wv?key=08a55baa42028feb47832b052f7f041d',
   'https://amendablepredicamentvertical.com/uhr5mmahw?key=e6341416b270ee9a62e0996299d61fa1',
   'htps://amendablepredicamentvertical.com/nymnme7td?key=79b78598c8b159605c550bf724e60855'
   
