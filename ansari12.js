@@ -11,7 +11,7 @@ var dataUrl = [
   'https://fireworkswad.com/yevb1vpg2?key=0127f56241a83ccd37506a3d59a797fe',
   'https://fireworkswad.com/h8iv88se1v?key=21893a1ff00c4483973d3efc2febd04c',
   'https://fireworkswad.com/kdvahsb0wj?key=66f1e59b1b551fb24893ae895dc1d658',
-  'https://fireworkswad.com/rm5e0t7wd?key=d1c7d5a4bfef1f1a791c9f7c5cb38ec7,
+  'https://fireworkswad.com/rm5e0t7wd?key=d1c7d5a4bfef1f1a791c9f7c5cb38ec7'
 
  
 
