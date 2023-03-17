@@ -1,9 +1,8 @@
 var dataUrl = [
   
 
- 'https://www.profitablegatetocontent.com/w11f6fh2ua?key=aeffd39951a7f32c2bcf38fc8a4ae4d8',
- 'https://www.profitablegatetocontent.com/w60j252h?key=7d2a8ef66871f5d2dc6faa1821ff582e',
- 'https://www.profitablegatetocontent.com/wbbzz1u91r?key=d0ccda3580917dc6f6247f5013028171'
+ 'https://www.highrevenuegate.com/hx3g9hvzd?key=8ffd8310adecd93c5ec27d2ed8e75016',
+'https://www.highrevenuegate.com/dc4j91c7v?key=9b2445d7fd2d084d5beb8e3db8d52fd5'
   
  
 ];
