@@ -1,9 +1,6 @@
 var dataUrl = [
   
 
-'https://zaimovie.com/en/movie',
-'https://zaimovie.com/en/movie',
-'https://zaimovie.com/en/movie',
 'https://zaimovie.com/en/movie'
   
  
