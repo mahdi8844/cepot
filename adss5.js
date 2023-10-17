@@ -1,7 +1,7 @@
 var dataUrl = [
   
 
-'https://zaimovie.com/en/movie'
+'https://r7movies.com/en/movie'
   
  
 ];
